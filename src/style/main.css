@@ -1,0 +1,42 @@
+*{
+    font-family: 'roboto', serif;
+}
+
+.bg-img{
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    height: 800px;
+    width: auto;
+}
+
+#app h1{
+    font-size: 4em;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+
+#app p{
+    letter-spacing: 0.5px;
+    font-size: 1.5em;
+}
+.hero-banner{
+    margin-top: 125px;
+    margin-left: 150px;
+}
+
+#app .hero-banner button{
+    margin-top: 15px;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    background: #3A307C;
+    padding: 23px;
+}
+
+.items{
+    display: flex;
+    margin-top: 170px;
+    margin-left: 150px;
+}

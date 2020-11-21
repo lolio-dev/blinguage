@@ -1,0 +1,30 @@
+.logo{
+    height: 50px;
+    width: auto;
+    margin-left: 145px;
+    margin-top: 25px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn{
+    margin-right: 200px;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.btn button{
+    color: black;
+    padding: 14px;
+    background: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.nav span{
+    margin-right: 30px;
+}

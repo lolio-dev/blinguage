@@ -1,0 +1,13 @@
+#item{
+    width: 400px;
+    margin-right: 125px;
+}
+
+#item img{
+    margin-bottom: 20px;
+}
+
+#item img{
+    height: 75px;
+    width: auto;
+}
